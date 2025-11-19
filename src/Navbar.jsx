@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <nav className="bg-gray-900 text-white px-6 py-4 flex justify-between items-center">
       {/* Logo */}
-      <h1 className="text-2xl font-bold">MySite</h1>
+      <h1 className="text-2xl font-bold">Aniq shb</h1>
 
       {/* Desktop Menu */}
       <ul className="hidden md:flex gap-8 text-lg">
